@@ -1,4 +1,4 @@
-﻿ using Extreme.Net;
+﻿using Extreme.Net;
 using LiteDB;
 using Newtonsoft.Json;
 using OpenBullet.ViewModels;
